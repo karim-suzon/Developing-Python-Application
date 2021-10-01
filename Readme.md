@@ -1,1 +1,2 @@
-This is Tutorial
+Here I am following a course Python developing application.
+I will add the tasks here...
