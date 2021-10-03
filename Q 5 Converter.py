@@ -1,7 +1,7 @@
 from forex_python.converter import CurrencyRates
 import datetime as dt
 
-date = dt.datetime(2022, 10, 3)
+date = dt.datetime(2021, 10, 3)
 c = CurrencyRates()
 
 #countries = ["EUR", "USD"]
