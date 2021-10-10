@@ -1,3 +1,4 @@
+#Our program calculate BMI
 name1 = "karim"
 height_m1 = 1.65
 weight_kg1 = 75
