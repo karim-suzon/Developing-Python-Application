@@ -1,0 +1,1 @@
+#User gives the lengths of the triangle's sides.Program tells what is the triangle like(e.g. is it right angled,isosceles...)
