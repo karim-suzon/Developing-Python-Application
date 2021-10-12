@@ -1,0 +1,1 @@
+#Variables a, b, and c have different values. Create a program that finds the biggest one.Show 3 different ways to solve the problem.
