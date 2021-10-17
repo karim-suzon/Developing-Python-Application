@@ -1,5 +1,3 @@
-# this is not difficult,this just unfamilair . you just need practice it.the more you practice this concept,it will make your concept very clear.
-
 #User enters a weekday number and the program tells the name of the day
 
 #viikko = ["Lauantai","Sunnuntai","Maanantai","Tiistai","Keskiviikko","Torstai","Perjantai"]

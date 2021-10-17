@@ -1,5 +1,4 @@
-#User gives the lengths of the triangle's sides.
-# Program tells what is the triangle like
+#User gives the lengths of the triangle's sides, Program tells what is the triangle like
 
 #An equilateral triangle is a triangle in which all three sides are equal.
 #A scalene triangle is a triangle that has three unequal sides.

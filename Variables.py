@@ -17,3 +17,5 @@ print(type(f))
 print(type(g))
 print(type(h)) # it will print invalid syntax
 # print(type(i)) # it will print invalid syntax
+
+# this is not difficult,this just unfamilair . you just need practice it.the more you practice this concept,it will make your concept very clear.
