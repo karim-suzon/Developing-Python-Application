@@ -1,5 +1,5 @@
 #Program calculates the sum of values 1-5.
-#Use: for and while
+#Use: while loop
 
 sum = 0
 
