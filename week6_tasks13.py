@@ -1,0 +1,1 @@
+#13.Calculates approximations of sin(x) and cos(x)
